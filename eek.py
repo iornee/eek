@@ -119,4 +119,4 @@ async def cat_pic2(ctx):
 
 
 
-client.run('NzQ2Mjc1NTU2MDM0NjA5MTUy.Xz99RQ.VYdpx125C5nj8ylcNweXpjLYHkk')
+client.run('NzQ2Mjc1NTU2MDM0NjA5MTUy.Xz99RQ.BDR2LFKTc7dDg27OlKkRR-tr65I')
